@@ -3,8 +3,8 @@
 <p><em>Information Technology Student at <a href="https://www.utp.edu.my/Pages/Home.aspx">University Technology Petronas, UTP</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>VR Developer at <a href="http://cetal.utp.edu.my/">CETaL, UTP</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: harrizuan](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harrizuan/)](https://www.linkedin.com/in/harrizuan/)
-[![GitHub harrizuan](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/harrizuan)
+[![Linkedin: harrizuan](https://img.shields.io/badge/-harrizuan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harrizuan/)](https://www.linkedin.com/in/harrizuan/)
+[![GitHub harrizuan](https://img.shields.io/github/followers/harrizuan?label=follow&style=social)](https://github.com/harrizuan)
 
 ## I'm a Student and Developer!!
 
