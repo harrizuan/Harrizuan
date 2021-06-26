@@ -15,6 +15,8 @@
 - 🌱 Currently learning more about <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
 - 💬 Love connecting with different people so if you want to say hi, I'll be happy to!</em></p>
  
+ </br>
+ 
 <img align='center' src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="230">
 
 #### 💻 Languages:
