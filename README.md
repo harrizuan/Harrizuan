@@ -9,9 +9,9 @@
 
 <p><em> I'm a Student and Developer 🐱‍💻
  
-- 🤔 Exloring new technologies and developing Website & Mobile Apps.
-- 🎓 Sudying Information Technology at University Technology Petronas, UTP.
-- 💼 Working as a Virtual Reality Develepor for CETaL, UTP.
+- 🤔 Exploring new technologies and developing Website & Mobile Apps.
+- 🎓 Studying Information Technology at University Technology Petronas, UTP.
+- 💼 Working as a Virtual Reality Developer for CETaL, UTP.
 - 🌱 Currently learning more about <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
 - 💬 Love connecting with different people so if you want to say hi, I'll be happy to!</em></p>
  
