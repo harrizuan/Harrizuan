@@ -1,8 +1,8 @@
-**👨‍💻 Cybersecurity | 🎮 CTF Player | 💻 Software Developer** 
+**Cybersecurity | CTF Player | Software Developer** 
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVyaTQyc2VqcGt1NW9teGpicDRwZGQ3NjlzZmZ3NjloYjd0Z21mbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zk8twDzABwjAqU1Zcd/giphy.gif" width="100" height="100" />
 
-I thrive on solving complex problems and making a difference. 🚀
+I thrive on solving complex problems and making a difference.
 
 ![Python](https://img.shields.io/badge/-Python-9cff1e?logo=python&logoColor=000000&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-9cff1e?logo=javascript&logoColor=000000&style=flat-square)
