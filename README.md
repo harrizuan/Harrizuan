@@ -1,42 +1,26 @@
-<h2> Hello, I'm Harrizuan! <img src="https://thumbs.gfycat.com/IllustriousFoolishBlackpanther-max-1mb.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Information Technology Student at <a href="https://www.utp.edu.my/Pages/Home.aspx">University Technology Petronas, UTP</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Contract VR Developer at <a href="http://cetal.utp.edu.my/">CETaL, UTP</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+**👨‍💻 Cybersecurity | 🎮 CTF Player | 💻 Software Developer** 
 
-[![Linkedin: harrizuan](https://img.shields.io/badge/-harrizuan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harrizuan/)](https://www.linkedin.com/in/harrizuan/)
-[![GitHub harrizuan](https://img.shields.io/github/followers/harrizuan?label=follow&style=social)](https://github.com/harrizuan)
-![](https://visitor-badge.glitch.me/badge?page_id=harrizuan.harrizuan)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVyaTQyc2VqcGt1NW9teGpicDRwZGQ3NjlzZmZ3NjloYjd0Z21mbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zk8twDzABwjAqU1Zcd/giphy.gif" width="100" height="100" />
 
-<p><em> I'm a Student and Developer 🐱‍💻
- 
-- 🤔 Exploring new technologies and developing Website & Mobile Apps.
-- 🎓 Studying Information Technology at University Technology Petronas, UTP.
-- 💼 Working as a Virtual Reality Developer for CETaL, UTP.
-- 🌱 Currently learning more about <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
-- 💬 Love connecting with different people so if you want to say hi, I'll be happy to!</em></p>
- 
- </br>
- 
-<img align='center' src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="230">
+I thrive on solving complex problems and making a difference. 🚀
 
-#### 💻 Languages:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=fffff)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff)
-![Flutter](https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7)
-    
-#### 📅 Database:
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
-![Firebase](https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF)
-   
-#### 🔧 Tools:
-![Visual Studio Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Git](http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF)
-![GitHub](http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/-Python-9cff1e?logo=python&logoColor=000000&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-9cff1e?logo=javascript&logoColor=000000&style=flat-square)
+![HTML](https://img.shields.io/badge/-HTML5-9cff1e?logo=html5&logoColor=000000&style=flat-square)
+![CSS](https://img.shields.io/badge/-CSS3-9cff1e?logo=css3&logoColor=000000&style=flat-square)
+![C++](https://img.shields.io/badge/-C++-9cff1e?logo=cplusplus&logoColor=000000&style=flat-square)
+![R](https://img.shields.io/badge/-R-9cff1e?logo=r&logoColor=000000&style=flat-square)
+![React](https://img.shields.io/badge/-React-9cff1e?logo=react&logoColor=000000&style=flat-square)
+![Flutter](https://img.shields.io/badge/-Flutter-9cff1e?logo=flutter&logoColor=000000&style=flat-square)
+![Unity](https://img.shields.io/badge/-Unity-9cff1e?logo=unity&logoColor=000000&style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-9cff1e?logo=linux&logoColor=000000&style=flat-square)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-9cff1e?logo=kalilinux&logoColor=000000&style=flat-square)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-9cff1e?logo=burpsuite&logoColor=000000&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-9cff1e?logo=docker&logoColor=000000&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-9cff1e?logo=git&logoColor=000000&style=flat-square)
+![VS Code](https://img.shields.io/badge/-VS%20Code-9cff1e?logo=visualstudiocode&logoColor=000000&style=flat-square)
 
-#### 🎥 Editing:
-![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
-![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrizuan&layout=compact&bg_color=000000&title_color=9cff1e&text_color=FFFFFF&icon_color=9cff1e)
+
